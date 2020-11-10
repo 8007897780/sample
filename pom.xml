@@ -1,6 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <!--POM file Code changes to master branch to form a new branch Team member-1 -->
+  
+  <!-- final copy with changes-->
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mahesh</groupId>
   <artifactId>sample</artifactId>
@@ -20,3 +22,5 @@
     <finalName>sample</finalName>
   </build>
 </project>
+
+<!-- final copy done with changes-->
