@@ -2,8 +2,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   
   <!--POM file Code changes to master branch to form a new branch Team member-1 -->
+
    <!--POM file Code changes to master branch to form a new branch Team member-2 -->
    <!--POM file Code changes to master branch to form a new branch Team member-3 -->
+
+  
+  <!-- final copy with changes-->
+
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mahesh</groupId>
   <artifactId>sample</artifactId>
@@ -31,4 +36,8 @@
 
 
 
+
 <!--done my changes -->
+
+<!-- final copy done with changes-->
+
